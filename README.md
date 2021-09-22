@@ -1,7 +1,4 @@
 ### Namaste 🙏🤩
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=newbiens.newbiens" alt="visitor badge"/>
-</p>
 
 
 <!--
@@ -40,10 +37,20 @@ Here are some ideas to get you started: -->
   <code><img title="node js" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/nodejs.svg"></code>
 </p>
 <hr>
- <b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</b>
  
+ <h2 align="center">👓 My Social Handles 👓</h2>
  
+ <p align='center'>
+<a href="https://dev.to/yellowgem"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_n_i_s_h_a__?lang=cs"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yellowgem/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
  
+
+
+
+
+
 
 
 
@@ -52,6 +59,26 @@ Here are some ideas to get you started: -->
   [![Nisha's github activity graph](https://activity-graph.herokuapp.com/graph?username=newbiens)](https://github.com/newbiens/github-readme-activity-graph)
 
 </p>
+
+
+
+
+
+<b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</b>
+
+
+
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=newbiens.newbiens" alt="visitor badge"/>
+</p>
+
+
+
+
+
+
+
 Here are some [🦜 parrots]
 
 <div>
