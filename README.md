@@ -6,15 +6,21 @@
 
 Here are some ideas to get you started: -->
 
- I'm Nisha Srivastava (<b>a Bihari</b>) 
+ # I'm Nisha Srivastava (<b>a Bihari</b>) 
 
-- 🔭 I’m currently working on node js, express js and java.
-- 🌱 I’m currently learning DevOps, DSA and patience.
-- 🌱 I write blogs on social issues at <a href="https://gyanism.in/">gyanism.in</a>
-- 🌱 I write personal blogs <a href="https://strangebutimportant.blogspot.com/" > here </a>
-- 👯 I’m looking to collaborate on projects that target MERN tech stack.
-- 📫 If you want to contact me, mail at - nisha8083214087@gmail.com
-- 😄 Pronouns: She/Her
+- 🔭 **I’m currently working on node js, express js and java.**
+ 
+- 🌱 **I’m currently learning DevOps, DSA and patience.**
+ 
+- 🌱 **I write blogs on social issues at <a href="https://gyanism.in/">gyanism.in</a>**
+ 
+- 🌱 **I write personal blogs <a href="https://strangebutimportant.blogspot.com/" > here </a>**
+ 
+- 👯 **I’m looking to collaborate on projects that target MERN tech stack.**
+ 
+- 📫 **If you want to contact me, mail at - nisha8083214087@gmail.com**
+
+- 😄 **Pronouns: She/Her/hers**
 
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
